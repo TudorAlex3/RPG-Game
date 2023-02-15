@@ -1,0 +1,38 @@
+{
+  "Warrior": [
+    "Warrior0.PNG",
+    "Warrior1.PNG",
+    "Warrior2.PNG",
+    "Warrior3.PNG",
+    "Warrior4.PNG",
+    "Warrior5.PNG",
+    "Warrior6.PNG",
+    "Warrior7.PNG",
+    "Warrior8.PNG",
+    "Warrior9.PNG"
+  ],
+  "Rogue": [
+    "Rogue0.PNG",
+    "Rogue1.PNG",
+    "Rogue2.PNG",
+    "Rogue3.PNG",
+    "Rogue4.PNG",
+    "Rogue5.PNG",
+    "Rogue6.PNG",
+    "Rogue7.PNG",
+    "Rogue8.PNG",
+    "Rogue9.PNG"
+  ],
+  "Mage": [
+    "Mage0.PNG",
+    "Mage1.PNG",
+    "Mage2.PNG",
+    "Mage3.PNG",
+    "Mage4.PNG",
+    "Mage5.PNG",
+    "Mage6.PNG",
+    "Mage7.PNG",
+    "Mage8.PNG",
+    "Mage9.PNG"
+  ]
+}
