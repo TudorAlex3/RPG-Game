@@ -10,7 +10,7 @@ In addition to the "stories" method that displays a story based on the cell, I h
 ### ➢ Grid
 In the map generation method, the number of enemies and shops was randomly generated so that I have at least 2 shops and 4 enemies, but they fit within the space provided by the game board. In the methods for traversing the squares, I added money to the player's backpack if the new cell was empty and had not been visited before.
 
-I added a function to display the game board using the following symbols:
+I added a function to display the game board using the following symbols: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▪ ◉ - player <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▪ ? - unvisited cell <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▪ _ - visited cell or empty cell <br>
