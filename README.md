@@ -1,5 +1,12 @@
 # RPG-Game
 
+### ➢ Description
+
+The project consists of implementing a text-based game (text adventure game). The game is in the form of an n x m matrix, with each cell containing various elements (enemies, supply stores, etc.). Thus, the implemented program offers the player certain choices based on the type of cell and displays a corresponding message on the terminal/GUI.
+
+The player has multiple characters to choose from and can create as many as desired (when starting the game, the player will select which character they want to use for a new level). Each character has unique attributes and abilities. The characters will evolve over time, gaining experience points after each event, quantified by a number. Upon reaching certain levels set by the player, the player will advance, increasing their attributes such as strength, dexterity, and charisma.
+
+
 ### ➢ Game
 In the "run" method, I create a list of accounts, a dictionary, and a list of image names used for the graphical interface using the "JsonInput" and "JsonInputPicture" classes, in which I have read the data from a .json file. Depending on the user's choices, I call either the "options" method or the "optionsGraphic" method.
 
