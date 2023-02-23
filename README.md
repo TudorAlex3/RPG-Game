@@ -1,6 +1,7 @@
 # RPG-Game
 
 ### ➢ Description
+
 <p align="justify">
 The project consists of implementing a text-based game (text adventure game). The game is in the form of an n x m matrix, with each cell containing various elements (enemies, supply stores, etc.). Thus, the implemented program offers the player certain choices based on the type of cell and displays a corresponding message on the terminal/GUI.<br>
 
